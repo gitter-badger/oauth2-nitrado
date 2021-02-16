@@ -15,6 +15,8 @@
 
 # Nitrado Provider for OAuth 2.0 Client
 
+[![Join the chat at https://gitter.im/oauth2-nitrado/community](https://badges.gitter.im/oauth2-nitrado/community.svg)](https://gitter.im/oauth2-nitrado/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This package provides Nitrado OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
 ## Installation
